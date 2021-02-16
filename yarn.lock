@@ -861,10 +861,10 @@
   resolved "https://registry.yarnpkg.com/@fontsource/noto-sans-kr/-/noto-sans-kr-4.2.0.tgz#1b41aa988d58409241e0c4826cc077106c2d5cc7"
   integrity sha512-f6JeOplILGJ8Pi3pjzkjLxCQf7pp8xBj+JuN1a8AM1dhE9kQAtvic7SqtwSnhdTnUHtUu96tu7mAYCa/zOGfgA==
 
-"@fontsource/noto-sans-sc@^4.2.0":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@fontsource/noto-sans-sc/-/noto-sans-sc-4.2.0.tgz#a2161a3be3dfaebde5c32c1056bbe57b6afaada6"
-  integrity sha512-XY3M0yKRqOLjFc/jmdz9lVf4rGbNymMDKY8aKm2V3tkwSUjG97A8pOn/vhC88lxbzAYHLNNeWn0te1Cruu2zsg==
+"@fontsource/noto-sans-sc@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@fontsource/noto-sans-sc/-/noto-sans-sc-4.2.1.tgz#a3f95b5a4a0157d9ed0e621492aeecdb4a8597d1"
+  integrity sha512-RvDpNBGCU2GW7Wkg6BkPGEvws7H94RoJU4mG1mWRDiCKbTPg4MEw8avrL63B7nBL2/J2WOEdgJ87UpL77NPmoQ==
 
 "@fontsource/noto-sans@^4.2.0":
   version "4.2.0"
@@ -3043,10 +3043,10 @@ eslint-plugin-import@^2.22.1:
     resolve "^1.17.0"
     tsconfig-paths "^3.9.0"
 
-eslint-plugin-promise@^4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-promise/-/eslint-plugin-promise-4.2.1.tgz#845fd8b2260ad8f82564c1222fce44ad71d9418a"
-  integrity sha512-VoM09vT7bfA7D+upt+FjeBO5eHIJQBUWki1aPvB+vbNiHS3+oGIJGIeyBtKQTME6UPXXy3vV07OL1tHd3ANuDw==
+eslint-plugin-promise@^4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-promise/-/eslint-plugin-promise-4.3.1.tgz#61485df2a359e03149fdafc0a68b0e030ad2ac45"
+  integrity sha512-bY2sGqyptzFBDLh/GMbAxfdJC+b0f23ME63FOE4+Jao0oZ3E1LEwFtWJX/1pGMJLiTtrSSern2CRM/g+dfc0eQ==
 
 eslint-rule-composer@^0.3.0:
   version "0.3.0"
